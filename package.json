@@ -12,7 +12,9 @@
   "dependencies": {
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
+    "react-csv-reader": "^1.2.2",
     "react-dom": "^16.8.6",
+    "react-select": "^3.0.4",
     "tslib": "^1.9.3"
   },
   "devDependencies": {

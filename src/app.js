@@ -1,7 +1,8 @@
 import React from 'react';
+import SuggestSelect from './components/SuggestSelect'
 
 export const App = () => (
   <div>
-    <span>Hello there test taker</span>
+    <SuggestSelect/>
   </div>
 );
